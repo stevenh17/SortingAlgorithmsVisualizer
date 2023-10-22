@@ -1,0 +1,12 @@
+.array-container {
+    margin-top: 20vh;
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+    height: calc(100% - 100px);
+}
+
+.array-bar {
+    display: inline-block;
+    margin: 0 1px;
+}
